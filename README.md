@@ -151,13 +151,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 🏆 GitHub Trophies
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gobinda3113&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="98%" alt="Trophies" />
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
