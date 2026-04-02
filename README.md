@@ -65,17 +65,9 @@
 
 <div align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gobinda3113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a855f7&text_color=e6edf3&ring_color=00d4ff" alt="GitHub Stats" />
-  &nbsp;
+  
+
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gobinda3113&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff&sideLabels=e6edf3&dates=8b949e" alt="Streak Stats" />
-
-  <br><br>
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobinda3113&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=e6edf3&langs_count=10" alt="Top Languages" />
-  &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobinda3113&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=e6edf3&langs_count=6" alt="Language Donut" />
-
-  <br><br>
 
   <!-- ACTIVITY GRAPH -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gobinda3113&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=a855f7&point=00d4ff&area=true&hide_border=true" width="98%" alt="Activity Graph" />
