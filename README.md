@@ -45,17 +45,17 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 ## 🛠️ Tech Stack & Tools
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 | Category | Technologies |
 |----------|-------------|
-| **🎨 Frontend** | ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap) |
-| **⚙️ Backend** | ![Backend](https://skillicons.dev/icons?i=nodejs,express,python,java,php) |
-| **🗄️ Database** | ![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase) |
-| **🔧 Tools & DevOps** | ![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman) |
-| **💻 Other Languages** | ![Languages](https://skillicons.dev/icons?i=c,cpp,cs,go,ruby,bash) |
+| **🎨 Frontend** | [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.info) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org) [![React](https://skillicons.dev/icons?i=react)](https://react.dev) [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com) |
+| **⚙️ Backend** | [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org) [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com) [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com) [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net) |
+| **🗄️ Database** | [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com) [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org) [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com) |
+| **🔧 Tools & DevOps** | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com) [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com) [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org) [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com) |
+| **💻 Other Languages** | [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org) [![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp) [![Go](https://skillicons.dev/icons?i=go)](https://go.dev) [![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org) [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash) |
+
+  <br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
