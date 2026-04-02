@@ -39,7 +39,7 @@
 - 🛡️ Passionate about **Cybersecurity & Ethical Hacking**
 - 💬 Ask me about **React, Node.js, Python, System Design**
 - 🎯 Goal: **Contribute to projects that make a difference**
-- 📫 Reach me at **gobinda.adhikari@email.com**
+- 📫 Reach me at **gobinda.adhikari@gmail.com**
 
 <br clear="both">
 
@@ -117,7 +117,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gobinda3113)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gobinda-adhikari)
   [![Portfolio](https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gobinda-adhikari.dev)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gobinda.adhikari@email.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gobinda.adhikari@gmail.com)
 
 </div>
 
